@@ -8,3 +8,8 @@ p {
   font-family: "PT Mono", monospace;
   line-height: 1.5;
 }
+
+.container {
+  max-width: 720px;
+  border: 2px solid;
+}
