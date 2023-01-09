@@ -1,0 +1,10 @@
+h1 {
+  font-family: "Dela Gothic One", cursive;
+  text-transform: capitalize;
+  text-align: center;
+}
+
+p {
+  font-family: "PT Mono", monospace;
+  line-height: 1.5;
+}
