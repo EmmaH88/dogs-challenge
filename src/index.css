@@ -4,12 +4,31 @@ h1 {
   text-align: center;
 }
 
+h3 {
+  font-family: "Dela Gothic One", cursive;
+  text-transform: capitalize;
+  text-align: center;
+}
+
 p {
   font-family: "PT Mono", monospace;
   line-height: 1.5;
 }
 
+img {
+  max-width: 100%;
+}
+
+header {
+  background-image: url("/src/img/IMG_0145.JPG");
+  background-size: cover;
+}
+
+section {
+  border: 3px solid;
+}
+
 .container {
-  max-width: 720px;
+  max-width: 600px;
   border: 2px solid;
 }
